@@ -4,8 +4,8 @@ This is an Expense tracker. It would show users how much they have spent from
 their budget. It would allow the user to add expense or budget with a button or 
 swipe left to remove expense, showing the total spent and balance left.
 
-[Software Demo Video for Android Studio](https://youtu.be/ndtOn-Z2WUU)  
-[Software Demo Video for Kotlin](https://youtu.be/-Vyr6jHxV_A)  
+[Software Demo Video for Android Studio Layouts](https://youtu.be/LFT9HLBsJvU)  
+[Software Demo Video for Kotlin](https://youtu.be/hbSuITfjKRU)  
 [Software Demo Video for Libraries](https://youtu.be/u-gKNDLiKV8)
 
 # Development Environment
