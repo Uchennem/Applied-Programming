@@ -4,7 +4,7 @@ This is a simple blog app. It will allow an administrator make a blog post
 (including creating, editing, and deleting). It will allow all other view 
 this post and make comments. 
 
-[Software Demo Video](https://youtu.be/EVq7gMGEXxQ)
+[Software Demo Video](https://youtu.be/avao9LjZioc)
 
 # Development Environment
 
